@@ -1,0 +1,2 @@
+# Minimal Qt runtime; shiboken6 is installed at the matching version.
+PySide6-Essentials==6.12.0
